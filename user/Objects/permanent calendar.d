@@ -1,0 +1,32 @@
+.\objects\permanent calendar.o: ..\hardware\permanent calendar.c
+.\objects\permanent calendar.o: ..\hardware\permanent calendar.h
+.\objects\permanent calendar.o: ..\cmsis\stm32f10x.h
+.\objects\permanent calendar.o: ..\cmsis\core_cm3.h
+.\objects\permanent calendar.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\permanent calendar.o: ..\cmsis\system_stm32f10x.h
+.\objects\permanent calendar.o: ..\user\stm32f10x_conf.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_adc.h
+.\objects\permanent calendar.o: ..\cmsis\stm32f10x.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_bkp.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_can.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_cec.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_crc.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_dac.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_dbgmcu.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_dma.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_exti.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_flash.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_fsmc.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_gpio.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_i2c.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_iwdg.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_pwr.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_rcc.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_rtc.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_sdio.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_spi.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_tim.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_usart.h
+.\objects\permanent calendar.o: ..\lib\inc\stm32f10x_wwdg.h
+.\objects\permanent calendar.o: ..\lib\inc\misc.h
+.\objects\permanent calendar.o: ..\hardware\rtc.h
